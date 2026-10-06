@@ -311,7 +311,7 @@ a {
 
     transition: 0.5s;
 
-    background: url(./D.Gokulkumar\ Tamilarasu.png);
+    background: url(./images/D.Gokulkumar\ Tamilarasu.png );
 
     background-size: cover;
     background-repeat: no-repeat;
@@ -886,7 +886,7 @@ a {
 
 .card:nth-child(1) .project-img {
     background-image:
-        url("./Screenshot 2026-10-02 205656.png");
+        url("./images/Screenshot\ 2026-10-02\ 205656.png");
 }
 
 
@@ -894,7 +894,7 @@ a {
 
 .card:nth-child(2) .project-img {
     background-image:
-        url("./poster.jpg");
+        url("./images/poster.jpg");
 }
 
 
@@ -902,7 +902,7 @@ a {
 
 .card:nth-child(3) .project-img {
     background-image:
-        url("./carbon.jpg");
+        url("./images/carbon.jpg");
 }
 
 
